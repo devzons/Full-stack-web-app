@@ -1,4 +1,4 @@
-## Full-stack Web app
+## Full-stack Web Development
 
 - Gitpod [https://www.gitpod.io/](https://www.gitpod.io/)
 - Svelte (https://svelte.dev/) - Frontend
