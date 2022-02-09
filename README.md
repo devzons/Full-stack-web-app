@@ -54,3 +54,15 @@ You can preview the production build with `npm run preview`.
 ![Alt Project Architecture] (https://user-images.githubusercontent.com/788827/145879564-e7dc42d6-3055-492b-95d7-902e9a5fad96.png)
 
 ### Install sveltekit
+
+### Configure Gitpod
+
+```
+https://gitpod.io/new
+
+# create .gitpod.yml on root,
+
+tasks:
+  - init: npm install
+    command: npm run dev
+```
